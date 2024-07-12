@@ -1,0 +1,9 @@
+/.terraform
+/.terraform.lock.hcl
+/m4.tfplan
+/m5.tfplan
+/m6.tfplan
+/terraform.tfstate
+/terraform.tfstate.backup
+/test.tfplan
+/website
